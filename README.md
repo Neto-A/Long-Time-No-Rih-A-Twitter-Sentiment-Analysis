@@ -4,6 +4,7 @@
 <li><a href="#intro">Introduction</a></li>
 <li><a href="#method">Project Methodology
 <li><a href="#inferences">Inferences</a></li>
+<li><a href="#viz">Visualization</a></li>
 <li><a href="#references">References</a></li>
 </ul>
 
@@ -23,7 +24,8 @@ Hi! I'm Neto Anyama. In this project, I performed a sentiment analysis on tweets
 The project workflow was as follows:
 1. Data Wrangling: Gathering, Assessing, Cleaning
 2. Data Preprocessing: To prepare the data for sentiment analysis
-3. Exploratory Data Analysis: Using visualizations to derive insights
+3. Sentiment Analysis
+4. Exploratory Data Analysis: Using visualizations to derive insights
   
 <a id='inferences'></a>
 ## Inferences
@@ -32,6 +34,10 @@ The project workflow was as follows:
 3. ‘Diamonds’ was the song most talked about, showing up in 358 (21.96%) of tweets where fans mentioned any tracks.
 4. By far, the most talked about portion of the performance was the news of Rihanna's pregnancy as it was mentioned 3,249 times.
 5. Apart from the official #RihannaSuperBowl official hashtag used **9133 times (18.87%)**, fans also used #Rihanna **5361 times (11.08%)**.
+
+<a id='viz'></a>
+## Visualization
+This was done using Microsoft PowerBI and can be found [here](https://app.powerbi.com/view?r=eyJrIjoiMmIwYzMwNDMtMDA2Yy00OWU2LWFhNTItZmRmYzY2NTUwNDg5IiwidCI6ImEzMjNmYmMzLTM3NzUtNDNhMi05MWYxLTA4YWY1ZTA1MTVhZSJ9).
 
 <a id='references'></a>
 ## References
